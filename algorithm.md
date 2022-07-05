@@ -1,0 +1,1 @@
+Алгоритм [тут](https://drive.google.com/file/d/1_BX2szJY75P1pi7YQil69G4De_6YkjCs/view?usp=sharing). Блоки, отмеченные желтым  - блоки ввода информации пользователем.
